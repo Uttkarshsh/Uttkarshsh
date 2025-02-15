@@ -1,16 +1,62 @@
-## Hi there 👋
+## Hi there, I'm Uttkarsh Sharma! 👋
 
-<!--
-**Uttkarshsh/Uttkarshsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td>
 
-Here are some ideas to get you started:
+### 🚀 Cloud Computing | DevOps | Web Development (MERN)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate **Cloud Computing and DevOps enthusiast** with expertise in tools like **Docker, Kubernetes (basic), and Terraform**. I also have a strong background in **Web Development (MERN stack)** and **Data Structures & Algorithms (DSA)**.
+
+- 🎓 **3rd Year B.Tech CSE Student at UPES, Dehradun**
+- 🌱 Currently learning **advanced DevOps practices and scalable cloud solutions**
+- 💡 Always excited to explore new technologies and solve real-world problems
+- 💬 Ask me about **Cloud Computing, DevOps, Web Development, or DSA**
+- 📫 Reach me at: **uttkarshsh12@gmail.com**
+
+</td>
+<td>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔗 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/uttkarsh-sharma16/)](https://www.linkedin.com/in/uttkarsh-sharma16/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/UttkarshSharma)  
+
+---
+
+### 🛠 Languages & Tools:
+
+#### **Programming Languages:**
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white&size=large)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&size=large)
+
+#### **Web Development:**
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white&size=large)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white&size=large)
+![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white&size=large)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white&size=large)
+
+#### **DevOps & Cloud:**
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white&size=large)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=white&size=large)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=white&size=large)
+
+#### **Other Tools:**
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white&size=large)
+
+---
+
+### 📊 GitHub Stats:
+![Uttkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttkarshSharma&show_icons=true&theme=radical)
+
+---
+
+⚡ **Fun Fact:** I love learning new tech stacks and automating workflows!
+
+📌 _Feel free to connect, collaborate, and contribute!_ 😊
+
