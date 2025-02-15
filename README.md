@@ -25,7 +25,9 @@ I'm a passionate **Cloud Computing and DevOps enthusiast** with expertise in too
 
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/uttkarsh-sharma16/)](https://www.linkedin.com/in/uttkarsh-sharma16/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/UttkarshSharma)  
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Uttkarsh_16/)](https://leetcode.com/u/Uttkarsh_16/)
 
 ---
