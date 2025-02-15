@@ -53,7 +53,7 @@ I'm a passionate **Cloud Computing and DevOps enthusiast** with expertise in too
 ---
 
 ### 📊 GitHub Stats:
-![Uttkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UttkarshSharma&show_icons=true&theme=radical)
+![Uttkarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uttkarshsh&show_icons=true&theme=radical)
 
 ---
 
