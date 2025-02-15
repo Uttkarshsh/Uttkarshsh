@@ -16,7 +16,7 @@ I'm a passionate **Cloud Computing and DevOps enthusiast** with expertise in too
 
 </td>
 <td>
-
+<img src="https://strangebee.com/wp-content/uploads/2024/08/AWS-Azure2-opt.gif" width="300" />
 </td>
 </tr>
 </table>
@@ -26,6 +26,7 @@ I'm a passionate **Cloud Computing and DevOps enthusiast** with expertise in too
 ### 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/uttkarsh-sharma16/)](https://www.linkedin.com/in/uttkarsh-sharma16/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/UttkarshSharma)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/u/Uttkarsh_16/)](https://leetcode.com/u/Uttkarsh_16/)
 
 ---
 
@@ -59,4 +60,3 @@ I'm a passionate **Cloud Computing and DevOps enthusiast** with expertise in too
 ⚡ **Fun Fact:** I love learning new tech stacks and automating workflows!
 
 📌 _Feel free to connect, collaborate, and contribute!_ 😊
-
